@@ -38,8 +38,8 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "September 2024",
       endDate: "Present",
       summary: [
-        "Lead and manage a high-performing customer service team at MTN Connect Store, driving operational excellence and customer satisfaction across technical support operations. Oversee first-level technical troubleshooting, team performance optimization, and critical customer data management with strict adherence to confidentiality protocols. Successfully completed MTN's prestigious 'How Can I Serve You' customer service excellence training (2025), implementing best practices that enhance service delivery standards. Leverage technical expertise and analytical thinking to resolve complex customer issues while mentoring team members in effective problem-solving methodologies.",
-        "Ensure seamless coordination between technical support functions and business objectives, maintaining MTN's reputation for quality service delivery in Nigeria's competitive telecommunications landscape.",
+        "Lead and manage a high performing customer service team at MTN Connect Store, driving operational excellence and customer satisfaction across technical support operations. Oversee first-level technical troubleshooting, team performance optimization, and critical customer data management with strict adherence to confidentiality protocols. Successfully completed MTN's prestigious 'How Can I Serve You' customer service excellence training (2025), implementing best practices that enhance service delivery standards.",
+        "Leverage technical expertise and analytical thinking to resolve complex customer issues while mentoring team members in effective problem solving methodologies.",
       ],
     },
     {
@@ -49,7 +49,7 @@ export const SITE_CONTENT: SiteContent = {
       endDate: "July 2024",
       summary: [
         "Designed and delivered comprehensive mathematics and statistics curriculum for secondary school students, employing innovative teaching methodologies to simplify complex quantitative concepts. Developed customized lesson plans and assessment frameworks that improved student engagement and academic performance. ",
-        "Cultivated analytical thinking skills among students through practical problem-solving exercises and real-world applications of mathematical principles. Collaborated with academic staff to align curriculum standards with national educational requirements while maintaining consistently high student achievement rates.",
+        "Cultivated analytical thinking skills among students through practical problem solving exercises and real world applications of mathematical principles. Collaborated with academic staff to align curriculum standards with national educational requirements while maintaining consistently high student achievement rates.",
       ],
     },
     {
