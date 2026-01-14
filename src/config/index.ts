@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "I'm a Young Cloud-Native ML Engineer. I specialize in mathematical modeling, cloud infrastructure orchestration, and the end-to-end deployment of intelligent systems",
     lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/ismail-small.jpg.png",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -66,21 +66,21 @@ export const SITE_CONTENT: SiteContent = {
       summary: "End-to-end machine learning pipeline deployed on Azure Kubernetes Service (AKS) with automated model training, versioning, and inference API. Implements CI/CD workflows using Docker containers and Azure DevOps for seamless model deployment at scale.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      image: "/azure.png.png",
     },
     {
       name: "FastAPI Event Ticketing System",
       summary: "Production-style backend application built with FastAPI to manage users, events, and ticket purchases. Implements REST APIs, structured data models, payment workflow logic, QR-code ticket generation, and robust error handling. Emphasizes clean code organization, modular services, and real-world backend design practices.",
       linkPreview: "/",
       linkSource: "https://github.com/yourusername/event-ticketing-fastapi",
-      image: "/shopify-clon.png",
+      image: "/fastapi.png.png",
     },
     {
       name: "Student Performance Prediction (ML Pipeline)",
       summary: "Machine learning project focused on end-to-end data preparation and modeling. Implemented structured data cleaning, handling of missing values, outlier inspection, feature encoding, and feature scaling prior to model training. Built and evaluated predictive models using scikit-learn, with emphasis on interpretability, validation, and reproducible preprocessing workflows.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
+      image: "/prediction.png.png",
     },
   ],
   about: {
@@ -88,7 +88,7 @@ export const SITE_CONTENT: SiteContent = {
       Hi, I’m Ismail Usman, a cloud-native machine learning engineer with experience building and deploying ML services using Docker, Kubernetes (AKS & GKE), and FastAPI. I work across the full ML lifecycle from data preprocessing and feature engineering to model deployment—focusing on scalable, maintainable, and human-centered solutions.
       Beyond technical execution, I am motivated by human centered applications of data science, especially in areas such as mental health, education, and decision-support systems. I believe effective machine learning systems should be ethical, transparent, and designed to serve real societal needs, and I am continuously developing my skills.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/ismail-small.jpg.png",
   },
 };
 
